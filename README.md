@@ -6,5 +6,5 @@
 
 Key features of this dashboard:
 1. Self-service views with drop-down lists
-2. Differenciation by color
+2. Color differenciation by post type
 3. Selective filters
