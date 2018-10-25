@@ -11,7 +11,7 @@ Key features of this dashboard:
 
 ## 2. Car Sales Analysis and Visualization<br>
 - [Tableau story here](https://public.tableau.com/profile/yajie.li#!/vizhome/CarSalesAnalysis_1/Story1?publish=yes)<br>
-- [Dataset](https://s3-us-west-2.amazonaws.com/ucdavis-msba-compute-studio/datasets.html)
+- [Dataset](https://github.com/yajieli912/Tableau-Dashboards/blob/master/Data%20Sheet%20for%20Market%20Analyst%20Role.xlsx)
 
 
 Key features of this dashboard:
